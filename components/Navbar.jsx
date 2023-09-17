@@ -32,5 +32,3 @@ const Navbar = () => (
 );
 
 export default Navbar;
-
-// Newline added here

@@ -45,5 +45,3 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
 );
 
 export default ExploreCard;
-
-// Newline added here

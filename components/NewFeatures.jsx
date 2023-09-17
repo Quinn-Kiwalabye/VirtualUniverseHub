@@ -17,5 +17,3 @@ const NewFeatures = ({ imgUrl, title, subtitle }) => (
 );
 
 export default NewFeatures;
-
-// Newline added here

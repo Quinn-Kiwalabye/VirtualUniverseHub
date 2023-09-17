@@ -60,5 +60,3 @@ const Footer = () => (
 );
 
 export default Footer;
-
-// Newline added here

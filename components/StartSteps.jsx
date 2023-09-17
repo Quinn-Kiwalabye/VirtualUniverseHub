@@ -14,5 +14,3 @@ const StartSteps = ({ number, text }) => (
 );
 
 export default StartSteps;
-
-// Newline added here
